@@ -1,0 +1,14 @@
+/Users/andrewarana/Documents/Jobs/virtuoso/dependencysort/dependencysort/bin/Debug/net8.0/dependencysort
+/Users/andrewarana/Documents/Jobs/virtuoso/dependencysort/dependencysort/bin/Debug/net8.0/dependencysort.deps.json
+/Users/andrewarana/Documents/Jobs/virtuoso/dependencysort/dependencysort/bin/Debug/net8.0/dependencysort.runtimeconfig.json
+/Users/andrewarana/Documents/Jobs/virtuoso/dependencysort/dependencysort/bin/Debug/net8.0/dependencysort.dll
+/Users/andrewarana/Documents/Jobs/virtuoso/dependencysort/dependencysort/bin/Debug/net8.0/dependencysort.pdb
+/Users/andrewarana/Documents/Jobs/virtuoso/dependencysort/dependencysort/obj/Debug/net8.0/dependencysort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewarana/Documents/Jobs/virtuoso/dependencysort/dependencysort/obj/Debug/net8.0/dependencysort.AssemblyInfoInputs.cache
+/Users/andrewarana/Documents/Jobs/virtuoso/dependencysort/dependencysort/obj/Debug/net8.0/dependencysort.AssemblyInfo.cs
+/Users/andrewarana/Documents/Jobs/virtuoso/dependencysort/dependencysort/obj/Debug/net8.0/dependencysort.csproj.CoreCompileInputs.cache
+/Users/andrewarana/Documents/Jobs/virtuoso/dependencysort/dependencysort/obj/Debug/net8.0/dependencysort.dll
+/Users/andrewarana/Documents/Jobs/virtuoso/dependencysort/dependencysort/obj/Debug/net8.0/refint/dependencysort.dll
+/Users/andrewarana/Documents/Jobs/virtuoso/dependencysort/dependencysort/obj/Debug/net8.0/dependencysort.pdb
+/Users/andrewarana/Documents/Jobs/virtuoso/dependencysort/dependencysort/obj/Debug/net8.0/dependencysort.genruntimeconfig.cache
+/Users/andrewarana/Documents/Jobs/virtuoso/dependencysort/dependencysort/obj/Debug/net8.0/ref/dependencysort.dll
